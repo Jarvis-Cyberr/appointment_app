@@ -614,4 +614,4 @@ class _RecentAptCard extends StatelessWidget {
       ),
     );
   }
-}
+} // Smart Queue - Appointment Scheduling & Queue Management App v1.0
