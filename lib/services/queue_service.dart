@@ -71,4 +71,4 @@ class QueueService {
     final mins = minutes % 60;
     return '${hours}h ${mins}m';
   }
-}
+} // Queue Service - Handles all queue logic, position assignment and wait time calculation
