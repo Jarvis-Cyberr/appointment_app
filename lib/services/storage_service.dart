@@ -47,4 +47,4 @@ class StorageService {
         [];
     return existing.length < 3;
   }
-}
+} // Storage Service - Offline first local storage using Hive database
